@@ -1,0 +1,31 @@
+var a = 'mummy';
+true// I am not in school
+false// I am in school
+let b 
+console.log(b);
+let mrValue = null;
+
+var a
+var b
+var c
+var d
+
+var a = 7;
+var b = 8;
+var c = 9;
+var d = 10;
+
+let firstName = 'Abdulrahman' 
+let lastName = 'Adedeji' 
+let country = 'Nigeria' 
+let city = 'Lagos' 
+let age = 19 
+let isMarried = false 
+
+console.log(firstName, lastName, country, city, age, isMarried)
+
+let firstName = Abdulrahman, lastName = Adedeji, country = Nigeria, city = Lagos, age = 19, isMarried = false)
+console.log(firstName, lastName, country, city, age, isMarried)
+
+var myAge = I am 20 years of age;
+var yourAge = You are 30 years of age;
